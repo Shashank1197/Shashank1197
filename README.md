@@ -15,7 +15,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Shashank1197&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Hacktoberfest 2024](https://Shashank1197.github.io/badges/hacktoberfest2024.png)
+[![An image of @shashank1197's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shashank1197)](https://holopin.io/@shashank1197)
 
 
   
