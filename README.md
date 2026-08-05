@@ -14,7 +14,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Shashank1197&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![An image of @shashank1197's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shashank1197)](https://holopin.io/@shashank1197)
+[![An image of @shashank1197's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shashank1197)](https://holopin.io/@shashank1197) (https://catalog-education.oracle.com/pls/certview/sharebadge?id=B1BA95EF09A6EA4C7D709EF29B65E1E8D30BFD9E3B4F265B3B603AC891E66307)
 
 
   
